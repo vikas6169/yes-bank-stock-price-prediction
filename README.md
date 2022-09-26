@@ -25,4 +25,4 @@ Details for all given columns are given in this dataset.
 
 * The column open and close depicts us the starting and final price at which the stock is traded on a particular month.
 * High and low represents the maximum and minimum price of the shape for the month.
-** Date- date describes the date of investment done i.e in which month and year investment occurs
+* Date- date describes the date of investment done i.e in which month and year investment occurs
