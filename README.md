@@ -17,9 +17,9 @@ Yes Bank is a well-known bank in the Indian financial domain. Since 2018, it has
 * Linear regression
 * L1 and L2 regularization
 # Requirements of this project
-data exploration/descriptive statistics
-data processing/cleaning
-predictive modeling
+* data exploration/descriptive statistics
+* data processing/cleaning
+* predictive modeling
 # Name:YesBank-StockPrices-Dataset
 Details for all given columns are given in this dataset.
 
